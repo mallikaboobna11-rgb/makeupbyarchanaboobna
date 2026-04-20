@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "website",
+      "runtimeExecutable": "ruby",
+      "runtimeArgs": ["/Users/mallikaboobna/Desktop/makeupbyarchanaboobna/server.rb"],
+      "port": 8080
+    }
+  ]
+}
